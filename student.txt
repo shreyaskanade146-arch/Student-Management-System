@@ -7,3 +7,7 @@ Course: AI and Data Science
 Name: Priya Patil
 Roll No: 102
 Course: Computer Engineering
+
+Name: Amit Patil
+Roll No: 103
+Course: Information Technology
