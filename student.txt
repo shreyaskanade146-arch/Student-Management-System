@@ -1,0 +1,9 @@
+Student Management System
+
+Name: Rahul Sharma
+Roll No: 101
+Course: AI and Data Science
+
+Name: Priya Patil
+Roll No: 102
+Course: Computer Engineering
